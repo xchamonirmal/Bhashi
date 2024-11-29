@@ -97,9 +97,10 @@
   </tr>
 </table>
 <br>
+
 ***
 
-<h2 align="center">🌟 𝗞𝗘𝗬 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦</h2>
+<h2 align="center">🌟 𝗞𝗘𝗬 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦</h2><br>
 <table align="center">
   <tr>
     <td><strong>🤖 AI & Automation</strong></td>
