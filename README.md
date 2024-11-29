@@ -107,7 +107,18 @@
     </td>
   </tr>
   <tr>
-    <td colspan="3" align="center">
+    <td>
+      <a href='https://host.talkdrove.com/signup' target="_blank">
+        <img alt='TalkDrove' src='https://img.shields.io/badge/-TalkDrove%20deploy-%233A70A6?style=for-the-badge&logo=talkdrove&logoColor=white' width=150 height=28/>
+      </a>
+    </td>
+    <td>
+      <a href='https://bot-hosting.net/' target="_blank">
+        <img alt='Bot Hosting' src='https://img.shields.io/badge/-Bot%20Hosting%20deploy-%2377B4D1?style=for-the-badge&logo=bot-hosting&logoColor=white' width=150 height=28/>
+      </a>
+    </td>
+    <td>
+      <!-- Empty cell for alignment, now with Workflow link -->
       <a href='https://github.com/vishwamihiranga/BHASHI-MD-V2/blob/main/WORKFLOW.md' target="_blank">
         <img alt='Workflow' src='https://img.shields.io/badge/-WorkFlow%20Deploy-%23006B3F?style=for-the-badge&logo=github&logoColor=white' width="150" height="28"/>
       </a>
