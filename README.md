@@ -52,7 +52,7 @@
 
 ***
 <h2 align="center">✅ 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</h2>
-
+<br>
 <table align="center">
   <tr>
     <td>
@@ -96,7 +96,7 @@
     </td>
   </tr>
 </table>
-
+<br>
 ***
 
 <h2 align="center">🌟 𝗞𝗘𝗬 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦</h2>
