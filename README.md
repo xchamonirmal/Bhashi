@@ -1,11 +1,8 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=00FFFF&background=ffffff&center=true&vCenter=true&width=1000&height=150&lines=BHASHI-MD-V2;MADE+BY+BHASHICODERS;TEAM+DARK+CYBER+MATRIX" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=00FFFF&background=000000&center=true&vCenter=true&width=1000&height=150&lines=BHASHI-MD-V2;MADE+BY+BHASHICODERS;TEAM+DARK+CYBER+MATRIX" alt="Typing SVG" />
   </a>
 </p>
-
-***
-
 <p align="center">
 <img src="https://i.ibb.co/FDt9Ps3/temp-Img2-Url.jpg" alt="BHASHI-MD Banner" width="60%" height="auto">
 </p>
