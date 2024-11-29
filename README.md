@@ -79,62 +79,61 @@
   </a> 
   
 ***
-<h2 align="center">🌟 𝗞𝗘𝗬 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦</h2>
-
 <div align="center">
-    <div class="feature-section">
-        <h3>🤖 AI & Automation</h3>
-        <ul>
-            <li>🗣️ Auto Voice Conversion</li>
-            <li>💭 AI Chat Integration</li>
-            <li>↩️ Smart Auto Replies</li>
-            <li>🎯 Auto Sticker Creation</li>
-            <li>🎨 Logo Generation</li>
-        </ul>
-    </div>
 
-    <div class="feature-section">
-        <h3>🛡️ Advanced Protection</h3>
-        <ul>
-            <li>⚔️ Antilink Protection</li>
-            <li>🚫 Anti Bad Words Filter</li>
-            <li>🎥 Anti Video/Audio/Sticker/Document</li>
-            <li>📞 Anti Call Protection</li>
-        </ul>
-    </div>
+## 🌟 KEY FEATURES
 
-    <div class="feature-section">
-        <h3>👥 Multi-User Support</h3>
-        <ul>
-            <li>👑 Multiple Owners</li>
-            <li>🌐 Multiple Users</li>
-            <li>⚙️ Multiple Operating Modes</li>
-        </ul>
-    </div>
+### 🤖 AI & Automation
+<div align="center">
 
-    <div class="feature-section">
-        <h3>🌍 Language & Customization</h3>
-        <ul>
-            <li>🗣️ Multi-Language Support</li>
-            <li>⚡ Multi-Prefix Commands</li>
-            <li>🎨 Customizable Settings</li>
-        </ul>
-    </div>
+- 🗣️ Auto Voice Conversion
+- 💭 AI Chat Integration
+- ↩️ Smart Auto Replies  
+- 🎯 Auto Sticker Creation
+- 🎨 Logo Generation
 
-    <div class="feature-section">
-        <h3>🤖 Bot Features</h3>
-        <ul>
-            <li>📊 Group Management</li>
-            <li>🎮 Games & Fun</li>
-            <li>📥 Downloaders</li>
-            <li>🎵 Music & Media</li>
-            <li>🖼️ Sticker Maker</li>
-            <li>📝 Notes & Reminders</li>
-        </ul>
-    </div>
 </div>
 
-***
+### 🛡️ Advanced Protection
+<div align="center">
+
+- ⚔️ Antilink Protection
+- 🚫 Anti Bad Words Filter
+- 🎥 Anti Video/Audio/Sticker/Document
+- 📞 Anti Call Protection
+
+</div>
+
+### 👥 Multi-User Support
+<div align="center">
+
+- 👑 Multiple Owners
+- 🌐 Multiple Users
+- ⚙️ Multiple Operating Modes
+
+</div>
+
+### 🌍 Language & Customization
+<div align="center">
+
+- 🗣️ Multi-Language Support
+- ⚡ Multi-Prefix Commands
+- 🎨 Customizable Settings
+
+</div>
+
+### 🤖 Bot Features
+<div align="center">
+
+- 📊 Group Management
+- 🎮 Games & Fun
+- 📥 Downloaders
+- 🎵 Music & Media
+- 🖼️ Sticker Maker
+- 📝 Notes & Reminders
+
+</div>
+</div>
 
 <h2 align="center">📝 𝗦𝗨𝗠𝗠𝗔𝗥𝗬</h2>
 <p align="center">
