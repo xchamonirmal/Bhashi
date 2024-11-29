@@ -1,8 +1,10 @@
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=65&pause=1000&color=F72C3F&background=FF20A500&center=true&vCenter=true&width=1000&height=150&lines=BHASHI-MD-V2;MADE+BY+VISHWA+AND+BHASHI;TEAM+DARK+CYBER+MATRIX" alt="Typing SVG" /></a>
+  
+***
 
 <p align="center">
-<img src="https://i.ibb.co/FDt9Ps3/temp-Img2-Url.jpg" alt="BHASHI-MD Banner" width="80%" height="auto">
+<img src="https://i.ibb.co/FDt9Ps3/temp-Img2-Url.jpg" alt="BHASHI-MD Banner" width="60%" height="auto">
 </p>
   <a href="https://github.com/vishwamihiranga/BHASHI-MD-V2">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvishwamihiranga%2FBHASHI-MD-V2&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
@@ -14,6 +16,7 @@
     <img src="https://img.shields.io/github/stars/vishwamihiranga/BHASHI-MD-V2?style=social">
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/vishwamihiranga/BHASHI-MD-V2">
     <img src="https://img.shields.io/github/repo-size/vishwamihiranga/BHASHI-MD-V2?color=purple&label=Repo%20Size&style=plastic">
@@ -33,7 +36,9 @@
     <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-DARK%20HACK%20ZONE%20-purple&style=plastic">
   </a>
 </p>
+
  ***
+ 
 <h2 align="center">🔄 𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗧𝗢 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣</h2>
 
 <p align="center">
@@ -75,7 +80,7 @@
 ***
 
 <h2 align="center">🌟 𝗞𝗘𝗬 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦</h2>
-
+<p align="center">
 - 🛡️ **Advanced Protection**
   - ⚔️ Antilink Protection
   - 🚫 Anti Bad Words Filter
@@ -99,17 +104,19 @@
   - 🎵 Music & Media
   - 🖼️ Sticker Maker
   - 📝 Notes & Reminders
+</p>
 ***
 <h2 align="center">📝 𝗦𝗨𝗠𝗠𝗔𝗥𝗬</h2>
+<p align="center">
+BHASHI-MD is a powerful WhatsApp bot built with Baileys, offering comprehensive group management, entertainment features, and robust protection systems. Perfect for both personal and group use, it combines security with functionality.</p>
 
-BHASHI-MD is a powerful WhatsApp bot built with Baileys, offering comprehensive group management, entertainment features, and robust protection systems. Perfect for both personal and group use, it combines security with functionality.
 ***
 <h2 align="center">📄 𝗟𝗜𝗖𝗘𝗡𝗦𝗘</h2>
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-***
+<p align="center">This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.</p>
 
 ***
+
 <h2 align="center">⚠ 𝗡𝗢𝗧𝗜𝗖𝗘</h2>
 <p style="text-align: center; font-size: 1.2em;">
   <strong>Not For Sale</strong><br>
@@ -126,6 +133,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
   I am not responsible for any actions leading to the banning of your account. 
   Use at your own risk, keeping this warning in mind.
 </p>
+
 ***
 <h2 align="center">👑 𝗕𝗛𝗔𝗦𝗛𝗜 𝗠𝗗 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥𝗦</h2>
 
