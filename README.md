@@ -51,6 +51,7 @@
 <p align="center"> 𝗨𝗣𝗗𝗔𝗧𝗘 𝗬𝗢𝗨𝗥 𝗖𝗢𝗡𝗙𝗜𝗚.𝗝𝗦 - 𝗔𝗗𝗗 𝗦𝗘𝗦𝗦𝗜𝗢𝗡-𝗜𝗗</p>
 
 ***
+
 <h2 align="center">✅ 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</h2>
 <br>
 <table align="center">
@@ -89,6 +90,23 @@
     </td>
   </tr>
   <tr>
+    <td>
+      <a href='https://www.digitalocean.com/products/app-platform' target="_blank">
+        <img alt='DigitalOcean' src='https://img.shields.io/badge/-DigitalOcean%20deploy-%23182D3B?style=for-the-badge&logo=digitalocean&logoColor=white' width=150 height=28/>
+      </a>
+    </td>
+    <td>
+      <a href='https://azure.microsoft.com/en-us/free/' target="_blank">
+        <img alt='Azure' src='https://img.shields.io/badge/-Azure%20deploy-%232C6BC0?style=for-the-badge&logo=azure&logoColor=white' width=150 height=28/>
+      </a>
+    </td>
+    <td>
+      <a href='https://www.google.com/cloud' target="_blank">
+        <img alt='Google Cloud' src='https://img.shields.io/badge/-Google%20Cloud%20deploy-%234285F4?style=for-the-badge&logo=googlecloud&logoColor=white' width=150 height=28/>
+      </a>
+    </td>
+  </tr>
+  <tr>
     <td colspan="3" align="center">
       <a href='https://github.com/vishwamihiranga/BHASHI-MD-V2/blob/main/WORKFLOW.md' target="_blank">
         <img alt='Workflow' src='https://img.shields.io/badge/-WorkFlow%20Deploy-%23006B3F?style=for-the-badge&logo=github&logoColor=white' width="150" height="28"/>
@@ -99,6 +117,7 @@
 <br>
 
 ***
+
 
 <h2 align="center">🌟 𝗞𝗘𝗬 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦</h2><br>
 <table align="center">
