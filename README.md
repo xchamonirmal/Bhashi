@@ -43,7 +43,7 @@
 <h2 align="center">🔄 𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗧𝗢 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣</h2>
 
 <p align="center">
-  <a href='https://github.com/vishwamihiranga/BHASHI-MD/fork' target="_blank">
+  <a href='https://github.com/vishwamihiranga/BHASHI-MD-V2/fork' target="_blank">
     <img alt='Fork Repo' src='https://img.shields.io/badge/-Fork%20Repo-grey?style=for-the-badge&logo=github&logoColor=white' width=115 height=28/>
   </a>
 </p>
@@ -62,7 +62,7 @@
 
 <p align="center">
   <a href='https://github.com/vishwamihiranga/BHASHI-MD' target="_blank">
-    <img alt='Star Repo' src='https://img.shields.io/github/stars/vishwamihiranga/BHASHI-MD?style=social' width=115 height=28/>
+    <img alt='Star Repo' src='https://img.shields.io/github/stars/vishwamihiranga/BHASHI-MD-V2?style=social' width=115 height=28/>
   </a>
 </p>
 
