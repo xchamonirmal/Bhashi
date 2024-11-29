@@ -55,30 +55,49 @@
 <h2 align="center">✅ 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗠𝗘𝗧𝗛𝗢𝗗𝗦</h2>
 
 <p align="center">
-<a href='https://railway.app/new' target="_blank"><img alt='Railway' src='https://img.shields.io/badge/-railway deploy-blue?style=for-the-badge&logo=railway&logoColor=white'/< width=150 height=28/p></a>
+  <a href='https://railway.app/new' target="_blank">
+    <img alt='Railway' src='https://img.shields.io/badge/-railway%20deploy-%23459A6E?style=for-the-badge&logo=railway&logoColor=white' width=150 height=28/>
+  </a>
+</p>
 
 <p align="center">
-<a href='https://signup.heroku.com/' target="_blank"><img alt='Heroku' src='https://img.shields.io/badge/-heroku ‎ deploy-blue?style=for-the-badge&logo=heroku&logoColor=white'/< width=150 height=28/p></a>
+  <a href='https://signup.heroku.com/' target="_blank">
+    <img alt='Heroku' src='https://img.shields.io/badge/-heroku%20deploy-%23430098?style=for-the-badge&logo=heroku&logoColor=white' width=150 height=28/>
+  </a>
+</p>
 
 <p align="center">
-<a href='https://dashboard.render.com/web/new' target="_blank"><img alt='Render' src='https://img.shields.io/badge/-Render deploy-blue?style=for-the-badge&logo=render&logoColor=white'/< width=150 height=28/p></a>
+  <a href='https://dashboard.render.com/web/new' target="_blank">
+    <img alt='Render' src='https://img.shields.io/badge/-Render%20deploy-%23F24C29?style=for-the-badge&logo=render&logoColor=white' width=150 height=28/>
+  </a>
+</p>
 
 <p align="center">
-<a href='https://app.koyeb.com/services/new?service_type=web&step=review&type=git&repository=github.com%2Fvishwamihiranga%2FBHASHI-MD-V2&instance_type=free&regions=fra&env[SESSION_ID]=your_default_session_id&env[MONGODB]=your_default_mongodb_url&dockerfile=./Dockerfile
-' target="_blank"><img alt='Koyeb' src='https://img.shields.io/badge/-koyeb deploy-blue?style=for-the-badge&logo=koyeb&logoColor=white'/< width=150 height=28/p></a>
+  <a href='https://app.koyeb.com/services/new?service_type=web&step=review&type=git&repository=github.com%2Fvishwamihiranga%2FBHASHI-MD-V2&instance_type=free&regions=fra&env[SESSION_ID]=your_default_session_id&env[MONGODB]=your_default_mongodb_url&dockerfile=./Dockerfile' target="_blank">
+    <img alt='Koyeb' src='https://img.shields.io/badge/-Koyeb%20deploy-%233A4C6F?style=for-the-badge&logo=koyeb&logoColor=white' width=150 height=28/>
+  </a>
+</p>
 
 <p align="center">
-<a href='https://app.netlify.com/' target="_blank"><img alt='Netlify' src='https://img.shields.io/badge/-Netlify Deploy-blue?style=for-the-badge&logo=netlify&logoColor=white'/< width=150 height=28/p></a> <h6>
+  <a href='https://app.netlify.com/' target="_blank">
+    <img alt='Netlify' src='https://img.shields.io/badge/-Netlify%20deploy-%230A0E24?style=for-the-badge&logo=netlify&logoColor=white' width=150 height=28/>
+  </a>
+</p>
 
 <p align="center">
-<a href='https://replit.com/~' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Replit Deploy-blue?style=for-the-badge&logo=replit&logoColor=white'/< width=150 height=28/p></a> <h6>
+  <a href='https://replit.com/~' target="_blank">
+    <img alt='Replit' src='https://img.shields.io/badge/-Replit%20deploy-%230E4B96?style=for-the-badge&logo=replit&logoColor=white' width=150 height=28/>
+  </a>
+</p>
 
 <p align="center">
   <a href='https://github.com/vishwamihiranga/BHASHI-MD-V2/blob/main/WORKFLOW.md' target="_blank">
-    <img alt='Workflow' src='https://img.shields.io/badge/-WorkFlow%20Deploy-blue?style=for-the-badge&logo=github&logoColor=white' width="150" height="28"/>
-  </a> 
-  
+    <img alt='Workflow' src='https://img.shields.io/badge/-WorkFlow%20Deploy-%23006B3F?style=for-the-badge&logo=github&logoColor=white' width="150" height="28"/>
+  </a>
+</p>
+
 ***
+
 <h2 align="center">🌟 𝗞𝗘𝗬 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦</h2>
 <table align="center">
   <tr>
