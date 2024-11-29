@@ -6,6 +6,7 @@
 <p align="center">
 <img src="https://i.ibb.co/FDt9Ps3/temp-Img2-Url.jpg" alt="BHASHI-MD Banner" width="60%" height="auto">
 </p>
+<p align="center"
   <a href="https://github.com/vishwamihiranga/BHASHI-MD-V2">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvishwamihiranga%2FBHASHI-MD-V2&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   </a>
