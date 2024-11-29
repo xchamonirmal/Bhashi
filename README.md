@@ -79,34 +79,63 @@
   </a> 
   
 ***
-
 <h2 align="center">🌟 𝗞𝗘𝗬 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦</h2>
-<p align="center">
-- 🛡️ **Advanced Protection**
-  - ⚔️ Antilink Protection
-  - 🚫 Anti Bad Words Filter
-  - 🎥 Anti Video/Audio/Sticker/Document
-  - 📞 Anti Call Protection
-  
-- 👥 **Multi-User Support**
-  - 👑 Multiple Owners
-  - 🌐 Multiple Users
-  - ⚙️ Multiple Operating Modes
-  
-- 🌍 **Language & Customization**
-  - 🗣️ Multi-Language Support
-  - ⚡ Multi-Prefix Commands
-  - 🎨 Customizable Settings
 
-- 🤖 **Bot Features**
-  - 📊 Group Management
-  - 🎮 Games & Fun
-  - 📥 Downloaders
-  - 🎵 Music & Media
-  - 🖼️ Sticker Maker
-  - 📝 Notes & Reminders
-</p>
+<div align="center">
+    <div class="feature-section">
+        <h3>🤖 AI & Automation</h3>
+        <ul>
+            <li>🗣️ Auto Voice Conversion</li>
+            <li>💭 AI Chat Integration</li>
+            <li>↩️ Smart Auto Replies</li>
+            <li>🎯 Auto Sticker Creation</li>
+            <li>🎨 Logo Generation</li>
+        </ul>
+    </div>
+
+    <div class="feature-section">
+        <h3>🛡️ Advanced Protection</h3>
+        <ul>
+            <li>⚔️ Antilink Protection</li>
+            <li>🚫 Anti Bad Words Filter</li>
+            <li>🎥 Anti Video/Audio/Sticker/Document</li>
+            <li>📞 Anti Call Protection</li>
+        </ul>
+    </div>
+
+    <div class="feature-section">
+        <h3>👥 Multi-User Support</h3>
+        <ul>
+            <li>👑 Multiple Owners</li>
+            <li>🌐 Multiple Users</li>
+            <li>⚙️ Multiple Operating Modes</li>
+        </ul>
+    </div>
+
+    <div class="feature-section">
+        <h3>🌍 Language & Customization</h3>
+        <ul>
+            <li>🗣️ Multi-Language Support</li>
+            <li>⚡ Multi-Prefix Commands</li>
+            <li>🎨 Customizable Settings</li>
+        </ul>
+    </div>
+
+    <div class="feature-section">
+        <h3>🤖 Bot Features</h3>
+        <ul>
+            <li>📊 Group Management</li>
+            <li>🎮 Games & Fun</li>
+            <li>📥 Downloaders</li>
+            <li>🎵 Music & Media</li>
+            <li>🖼️ Sticker Maker</li>
+            <li>📝 Notes & Reminders</li>
+        </ul>
+    </div>
+</div>
+
 ***
+
 <h2 align="center">📝 𝗦𝗨𝗠𝗠𝗔𝗥𝗬</h2>
 <p align="center">
 BHASHI-MD is a powerful WhatsApp bot built with Baileys, offering comprehensive group management, entertainment features, and robust protection systems. Perfect for both personal and group use, it combines security with functionality.</p>
