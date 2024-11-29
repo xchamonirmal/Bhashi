@@ -78,15 +78,32 @@
     <img alt='Workflow' src='https://img.shields.io/badge/-WorkFlow%20Deploy-blue?style=for-the-badge&logo=github&logoColor=white' width="150" height="28"/>
   </a> 
   
-# 🌟 Key Features
+<p align="center">
+  <h2>🌟 𝗞𝗘𝗬 𝗙𝗘𝗔𝗧𝗨𝗥𝗘𝗦</h2>
+</p>
 
-| **Category**                | **Features**                                                                                       |
-|-----------------------------|----------------------------------------------------------------------------------------------------|
-| 🤖 **AI & Automation**       | - 🗣️ Auto Voice Conversion <br> - 💭 AI Chat Integration <br> - ↩️ Smart Auto Replies <br> - 🎯 Auto Sticker Creation <br> - 🎨 Logo Generation |
-| 🛡️ **Advanced Protection**   | - ⚔️ Antilink Protection <br> - 🚫 Anti Bad Words Filter <br> - 🎥 Anti Video/Audio/Sticker/Document <br> - 📞 Anti Call Protection |
-| 👥 **Multi-User Support**    | - 👑 Multiple Owners <br> - 🌐 Multiple Users <br> - ⚙️ Multiple Operating Modes |
-| 🌍 **Language & Customization** | - 🗣️ Multi-Language Support <br> - ⚡ Multi-Prefix Commands <br> - 🎨 Customizable Settings |
-| 🤖 **Bot Features**          | - 📊 Group Management <br> - 🎮 Games & Fun <br> - 📥 Downloaders <br> - 🎵 Music & Media <br> - 🖼️ Sticker Maker <br> - 📝 Notes & Reminders |
+<table align="center">
+  <tr>
+    <td><strong>🤖 AI & Automation</strong></td>
+    <td>- 🗣️ Auto Voice Conversion <br> - 💭 AI Chat Integration <br> - ↩️ Smart Auto Replies <br> - 🎯 Auto Sticker Creation <br> - 🎨 Logo Generation</td>
+  </tr>
+  <tr>
+    <td><strong>🛡️ Advanced Protection</strong></td>
+    <td>- ⚔️ Antilink Protection <br> - 🚫 Anti Bad Words Filter <br> - 🎥 Anti Video/Audio/Sticker/Document <br> - 📞 Anti Call Protection</td>
+  </tr>
+  <tr>
+    <td><strong>👥 Multi-User Support</strong></td>
+    <td>- 👑 Multiple Owners <br> - 🌐 Multiple Users <br> - ⚙️ Multiple Operating Modes</td>
+  </tr>
+  <tr>
+    <td><strong>🌍 Language & Customization</strong></td>
+    <td>- 🗣️ Multi-Language Support <br> - ⚡ Multi-Prefix Commands <br> - 🎨 Customizable Settings</td>
+  </tr>
+  <tr>
+    <td><strong>🤖 Bot Features</strong></td>
+    <td>- 📊 Group Management <br> - 🎮 Games & Fun <br> - 📥 Downloaders <br> - 🎵 Music & Media <br> - 🖼️ Sticker Maker <br> - 📝 Notes & Reminders</td>
+  </tr>
+</table>
 
 <h2 align="center">📝 𝗦𝗨𝗠𝗠𝗔𝗥𝗬</h2>
 <p align="center">
