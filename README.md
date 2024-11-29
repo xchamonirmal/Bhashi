@@ -78,62 +78,15 @@
     <img alt='Workflow' src='https://img.shields.io/badge/-WorkFlow%20Deploy-blue?style=for-the-badge&logo=github&logoColor=white' width="150" height="28"/>
   </a> 
   
-***
-<div align="center">
+# 🌟 Key Features
 
-## 🌟 KEY FEATURES
-
-### 🤖 AI & Automation
-<div align="center">
-
-- 🗣️ Auto Voice Conversion
-- 💭 AI Chat Integration
-- ↩️ Smart Auto Replies  
-- 🎯 Auto Sticker Creation
-- 🎨 Logo Generation
-
-</div>
-
-### 🛡️ Advanced Protection
-<div align="center">
-
-- ⚔️ Antilink Protection
-- 🚫 Anti Bad Words Filter
-- 🎥 Anti Video/Audio/Sticker/Document
-- 📞 Anti Call Protection
-
-</div>
-
-### 👥 Multi-User Support
-<div align="center">
-
-- 👑 Multiple Owners
-- 🌐 Multiple Users
-- ⚙️ Multiple Operating Modes
-
-</div>
-
-### 🌍 Language & Customization
-<div align="center">
-
-- 🗣️ Multi-Language Support
-- ⚡ Multi-Prefix Commands
-- 🎨 Customizable Settings
-
-</div>
-
-### 🤖 Bot Features
-<div align="center">
-
-- 📊 Group Management
-- 🎮 Games & Fun
-- 📥 Downloaders
-- 🎵 Music & Media
-- 🖼️ Sticker Maker
-- 📝 Notes & Reminders
-
-</div>
-</div>
+| **Category**                | **Features**                                                                                       |
+|-----------------------------|----------------------------------------------------------------------------------------------------|
+| 🤖 **AI & Automation**       | - 🗣️ Auto Voice Conversion <br> - 💭 AI Chat Integration <br> - ↩️ Smart Auto Replies <br> - 🎯 Auto Sticker Creation <br> - 🎨 Logo Generation |
+| 🛡️ **Advanced Protection**   | - ⚔️ Antilink Protection <br> - 🚫 Anti Bad Words Filter <br> - 🎥 Anti Video/Audio/Sticker/Document <br> - 📞 Anti Call Protection |
+| 👥 **Multi-User Support**    | - 👑 Multiple Owners <br> - 🌐 Multiple Users <br> - ⚙️ Multiple Operating Modes |
+| 🌍 **Language & Customization** | - 🗣️ Multi-Language Support <br> - ⚡ Multi-Prefix Commands <br> - 🎨 Customizable Settings |
+| 🤖 **Bot Features**          | - 📊 Group Management <br> - 🎮 Games & Fun <br> - 📥 Downloaders <br> - 🎵 Music & Media <br> - 🖼️ Sticker Maker <br> - 📝 Notes & Reminders |
 
 <h2 align="center">📝 𝗦𝗨𝗠𝗠𝗔𝗥𝗬</h2>
 <p align="center">
