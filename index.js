@@ -823,7 +823,7 @@ const {
             "payiya", "ponnayaa", "ponna", "ponnaya", "ponnayo", 
             "ponnayoo", "huththii", "huththiii", "puke", "pukemail", 
             "pukathama", "pukasududa", "pukaa", "pukalokuda", 
-            "paka", "pakathama", "හුත්තා", "හුත්ත", "පක"
+            "paka", "pakathama", "හුත්තා", "හුත්ත", "පක","kona",
         ];
         if (config.ANTI_BAD === "true") {
             if (isGroup && isBotAdmins) {
@@ -963,6 +963,7 @@ if (config.ANTI_SPAM == "true") {
       if (isGroup && isBotAdmins && !isOwner && !isDev && !isSudo) {
           if (mek.message && mek.message.stickerMessage) {
               await conn.sendMessage(from, { text: "❌ *Stickers are not allowed in this group!*" });
+              await conn.sendMessage(from, { delete: mek.key });
               await conn.sendMessage(from, { delete: mek.key });
           }
       }
