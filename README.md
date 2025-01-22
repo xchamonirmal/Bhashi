@@ -35,7 +35,7 @@
   </p>
  <p align="center">
   <a href="https://github.com/vishwamihiranga/BHASHI-MD-V2">
-    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-DARK%20HACK%20ZONE%20-purple&style=plastic">
+    <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-DARK%20CYBER%20MATRIX%20-purple&style=plastic">
   </a>
 </p>
 
