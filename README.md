@@ -97,7 +97,7 @@
   </a>
 </p>
 <p align="center">
-  <a href='https://github.com/vishwamihiranga/BHASHI-MD' target="_blank">
+  <a href='https://github.com/vishwamihiranga/BHASHI-MD-V2' target="_blank">
     <img alt='Star Repo' src='https://img.shields.io/github/stars/vishwamihiranga/BHASHI-MD-V2?style=social' width=150 height=28/>
   </a>
 </p>
