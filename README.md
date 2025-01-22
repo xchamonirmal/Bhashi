@@ -38,23 +38,27 @@
     <img src="https://img.shields.io/badge/OUR%20%20%20TEAM-DARK%20CYBER%20MATRIX%20-purple&style=plastic">
   </a>
 </p>
- ***
- 
+***
+
 <h2 align="center">🔄 𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗨𝗧𝗢𝗥𝗜𝗔𝗟</h2>
+
 <center>
-<h3>📚 Tutorials</h3>
 
-<h4>1️⃣ MongoDB Tutorial</h4>
-<a href="https://www.youtube.com/watch?v=YOUR_MONGODB_VIDEO_LINK" target="_blank">
-  <img src="https://img.youtube.com/vi/YOUR_MONGODB_VIDEO_LINK/0.jpg" alt="MongoDB Tutorial" style="width:100%; max-width:640px;">
+### 📚 Tutorials
+
+#### 1️⃣ MongoDB Tutorial
+<a href="https://www.youtube.com/watch?v=J6mDkcqU_ZE" target="_blank">
+  <img src="https://img.youtube.com/vi/J6mDkcqU_ZE/0.jpg" alt="MongoDB Tutorial" style="width:100%; max-width:640px;">
 </a>
 
-<h4>2️⃣ Deploy Platforms Tutorial</h4>
-<a href="https://www.youtube.com/watch?v=YOUR_DEPLOY_PLATFORM_VIDEO_LINK" target="_blank">
-  <img src="https://img.youtube.com/vi/YOUR_DEPLOY_PLATFORM_VIDEO_LINK/0.jpg" alt="Deploy Platforms Tutorial" style="width:100%; max-width:640px;">
+#### 2️⃣ Deploy Platforms Tutorial
+<a href="https://www.youtube.com/watch?v=LYXCgE80zLA" target="_blank">
+  <img src="https://img.youtube.com/vi/LYXCgE80zLA/0.jpg" alt="Deploy Platforms Tutorial" style="width:100%; max-width:640px;">
 </a>
+
 </center>
- ***
+
+***
  
 <h2 align="center">🔄 𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗧𝗢 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣</h2>
 
