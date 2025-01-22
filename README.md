@@ -45,13 +45,13 @@
 
 <p align="center">
   <a href='https://github.com/vishwamihiranga/BHASHI-MD-V2/fork' target="_blank">
-    <img alt='Fork Repo' src='https://img.shields.io/badge/-Fork%20Repo-grey?style=for-the-badge&logo=github&logoColor=white' width=115 height=28/>
+    <img alt='Fork Repo' src='https://img.shields.io/badge/-Fork%20Repo-grey?style=for-the-badge&logo=github&logoColor=white' width=120 height=28/>
   </a>
 </p>
 
 <p align="center">
   <a href='https://bhashi-session-web-v2.onrender.com/pair' target="_blank">
-    <img alt='Pair Code Server 01' src='https://img.shields.io/badge/-Pair%20Code%20Server%2001-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white' width=115 height=28/>
+    <img alt='Pair Code Server 01' src='https://img.shields.io/badge/-Pair%20Code%20Server%2001-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white' width=120 height=28/>
   </a>
 </p>
 <p align="center">
