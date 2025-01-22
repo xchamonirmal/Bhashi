@@ -2,9 +2,9 @@
   "name": "BHASHI-MD",
   "version": "2.0.0",
   "description": "BHASHI-MD MULTI DEVICE WHATSAPP BOT BY VISHWA MIHIRANGA AND BHASHITHA",
-  "main": "index.js",
+  "main": "start.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name BHASHI-MD-V2",
+    "start": "pm2 start start.js --deep-monitoring --attach --name BHASHI-MD-V2",
     "stop": "pm2 stop BHASHI-MD-V2",
     "restart": "pm2 restart BHASHI-MD-V2"
   },
@@ -50,8 +50,10 @@
     "qrcode": "^1.5.3",
     "qrcode-terminal": "^0.12.0",
     "seedr": "^1.1.2",
+    "sharp": "^0.33.5",
     "stream": "^0.0.2",
     "tiktokdl": "^0.0.5",
+    "unzipper": "^0.12.3",
     "util": "^0.12.5",
     "vm": "^0.1.0",
     "wa-sticker-formatter": "^4.4.4",
