@@ -54,9 +54,7 @@
 <a href="https://www.youtube.com/watch?v=J6mDkcqU_ZE" target="_blank">Watch MongoDB Tutorial</a>
 
 #### 2️⃣ Deploy Platforms Tutorial
-<a href="https://www.youtube.com/watch?v=LYXCgE80zLA" target="_blank">
-  <img src="https://img.youtube.com/vi/LYXCgE80zLA/0.jpg" alt="Deploy Platforms Tutorial" style="width:300px; border:1px solid #ddd; border-radius:10px;">
-</a>
+## COMING SOON.....
 <br>
 <a href="https://www.youtube.com/watch?v=LYXCgE80zLA" target="_blank">Watch Deploy Platforms Tutorial</a>
 
