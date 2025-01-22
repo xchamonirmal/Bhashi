@@ -6,7 +6,7 @@ services:
     env: node
     autoDeploy: true
     buildCommand: npm install
-    startCommand: pm2-runtime start index.js
+    startCommand: pm2-runtime start start.js
     healthCheckPath: /
     healthCheckInterval: 10s
     healthCheckTimeout: 5s
