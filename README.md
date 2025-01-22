@@ -57,7 +57,7 @@
 #### 2️⃣ Deploy Platforms Tutorial
 <p>Coming Soon...</p>
 <br>
-<a href="https://www.youtube.com/watch?v=LYXCgE80zLA" target="_blank">Watch Deploy Platforms Tutorial</a>
+
 
 </div>
 
