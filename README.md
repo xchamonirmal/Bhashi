@@ -47,8 +47,8 @@
 ### 📚 Tutorials
 
 #### 1️⃣ MongoDB Tutorial
-<a href="https://www.youtube.com/watch?v=J6mDkcqU_ZE" target="_blank">
-  <img src="https://img.youtube.com/vi/J6mDkcqU_ZE/0.jpg" alt="MongoDB Tutorial" style="width:300px; border:1px solid #ddd; border-radius:10px;">
+<a href="https://youtu.be/VPIDwJMVNHM?feature=shared" target="_blank">
+  <img src="https://img.youtube.com/vi/VPIDwJMVNHM/0.jpg" alt="MongoDB Tutorial" style="width:300px; border:1px solid #ddd; border-radius:10px;">
 </a>
 <br>
 <a href="https://www.youtube.com/watch?v=J6mDkcqU_ZE" target="_blank">Watch MongoDB Tutorial</a>
