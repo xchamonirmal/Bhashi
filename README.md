@@ -71,7 +71,7 @@
 </p>
 <p align="center">
   <a href='https://molecular-cammy-vishwa22-548ca5c8.koyeb.app/qr' target="_blank">
-    <img alt='Qr Code Server 02' src='https://img.shields.io/badge/-Qr%20Code%20Server%2001-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white' width=150 height=28/>
+    <img alt='Qr Code Server 02' src='https://img.shields.io/badge/-Qr%20Code%20Server%2002-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white' width=150 height=28/>
   </a>
 </p>
 <p align="center">
