@@ -45,38 +45,38 @@
 
 <p align="center">
   <a href='https://github.com/vishwamihiranga/BHASHI-MD-V2/fork' target="_blank">
-    <img alt='Fork Repo' src='https://img.shields.io/badge/-Fork%20Repo-grey?style=for-the-badge&logo=github&logoColor=white' width=130 height=28/>
+    <img alt='Fork Repo' src='https://img.shields.io/badge/-Fork%20Repo-grey?style=for-the-badge&logo=github&logoColor=white' width=150 height=28/>
   </a>
 </p>
 
 <p align="center">
   <a href='https://bhashi-session-web-v2.onrender.com/pair' target="_blank">
-    <img alt='Pair Code Server 01' src='https://img.shields.io/badge/-Pair%20Code%20Server%2001-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white' width=130 height=28/>
+    <img alt='Pair Code Server 01' src='https://img.shields.io/badge/-Pair%20Code%20Server%2001-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white' width=150 height=28/>
   </a>
 </p>
 <p align="center">
   <a href='https://bhashi-session-web.onrender.com/' target="_blank">
-    <img alt='Pair Code Server 02' src='https://img.shields.io/badge/-Pair%20Code%20Server%2002-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white' width=130 height=28/>
+    <img alt='Pair Code Server 02' src='https://img.shields.io/badge/-Pair%20Code%20Server%2002-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white' width=150 height=28/>
   </a>
 </p>
 <p align="center">
   <a href='https://molecular-cammy-vishwa22-548ca5c8.koyeb.app/pair' target="_blank">
-    <img alt='Pair Code Server 03' src='https://img.shields.io/badge/-Pair%20Code%20Server%2003-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white' width=130 height=28/>
+    <img alt='Pair Code Server 03' src='https://img.shields.io/badge/-Pair%20Code%20Server%2003-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white' width=150 height=28/>
   </a>
 </p>
 <p align="center">
   <a href='https://bhashi-session-web-v2.onrender.com/qr' target="_blank">
-    <img alt='Qr Code Server 01' src='https://img.shields.io/badge/-Qr%20Code%20Server%2001-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white' width=130 height=28/>
+    <img alt='Qr Code Server 01' src='https://img.shields.io/badge/-Qr%20Code%20Server%2001-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white' width=150 height=28/>
   </a>
 </p>
 <p align="center">
   <a href='https://molecular-cammy-vishwa22-548ca5c8.koyeb.app/qr' target="_blank">
-    <img alt='Qr Code Server 02' src='https://img.shields.io/badge/-Qr%20Code%20Server%2001-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white' width=130 height=28/>
+    <img alt='Qr Code Server 02' src='https://img.shields.io/badge/-Qr%20Code%20Server%2001-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white' width=150 height=28/>
   </a>
 </p>
 <p align="center">
   <a href='https://github.com/vishwamihiranga/BHASHI-MD' target="_blank">
-    <img alt='Star Repo' src='https://img.shields.io/github/stars/vishwamihiranga/BHASHI-MD-V2?style=social' width=130 height=28/>
+    <img alt='Star Repo' src='https://img.shields.io/github/stars/vishwamihiranga/BHASHI-MD-V2?style=social' width=150 height=28/>
   </a>
 </p>
 
