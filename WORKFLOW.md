@@ -17,10 +17,11 @@ on:
   pull_request:
     branches:
       - main
+  schedule:
+    - cron: "0 */6 * * *"
 
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     strategy:
@@ -39,6 +40,6 @@ jobs:
     - name: Install dependencies
       run: npm install
 
-    - name: Start application
+    - name: Build application
       run: npm start
 ```
