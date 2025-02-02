@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <a href='https://bhashi-session-web-v2.onrender.com/pair' target="_blank">
+  <a href='https://bhashi-web-pair.onrender.com/' target="_blank">
     <img alt='Pair Code Server 01' src='https://img.shields.io/badge/-Pair%20Code%20Server%2001-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white' width=150 height=28/>
   </a>
 </p>
