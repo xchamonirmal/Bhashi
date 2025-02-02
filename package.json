@@ -1,7 +1,7 @@
 {
   "name": "BHASHI-MD",
   "version": "2.0.0",
-  "description": "BHASHI-MD MULTI DEVICE WHATSAPP BOT BY VISHWA MIHIRANGA AND BHASHITHA",
+  "description": "BHASHI-MD MULTI DEVICE WHATSAPP BOT VERSION 2.0 BY VISHWA MIHIRANGA AND BHASHITHA",
   "main": "start.js",
   "scripts": {
     "start": "pm2 start start.js --deep-monitoring --attach --name BHASHI-MD-V2",
