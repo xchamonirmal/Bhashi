@@ -7,7 +7,7 @@ function convertToBool(text, fault = 'true') {
 
 module.exports = {
   //==========================================- MAIN - CONFIGS -==================================================================
-  SESSION_ID: process.env.SESSION_ID || "",
+  SESSION_ID: process.env.SESSION_ID || "BHASHI-MD~PDhgzAQb#as1hW0Vr8pDw6UzohG9c-YMai6hQtIeu3nM7p0nYnyg",
 // For extra thing : BHASHI-MD~(megafileid)
   MONGODB: process.env.MONGODB || "",
 
